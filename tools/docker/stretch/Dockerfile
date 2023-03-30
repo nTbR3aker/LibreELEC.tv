@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:bullseye-20230320
 
 ARG DEBIAN_FRONTEND=noninteractive
 
