@@ -1,4 +1,4 @@
-FROM debian:bullseye-20230320
+FROM debian:11.11
 
 ARG DEBIAN_FRONTEND=noninteractive
 
